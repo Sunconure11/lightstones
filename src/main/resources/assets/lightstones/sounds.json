@@ -43,5 +43,13 @@
         "stream": true
       }
     ]
+  },
+  "music_disc.creeps": {
+    "sounds": [
+      {
+        "name": "lightstones:records/creeps",
+        "stream": true
+      }
+    ]
   }
 }

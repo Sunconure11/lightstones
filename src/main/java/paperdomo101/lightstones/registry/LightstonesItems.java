@@ -40,6 +40,7 @@ public class LightstonesItems {
     public static final Item MUSIC_DISC_TELESCOPE = register("music_disc_telescope", new LightstonesMusicDiscItem(14, LightstonesSounds.MUSIC_DISC_TELESCOPE, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1).rarity(Rarity.RARE), 137));
     public static final Item MUSIC_DISC_MAKUTA = register("music_disc_makuta", new LightstonesMusicDiscItem(15, LightstonesSounds.MUSIC_DISC_MAKUTA, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1).rarity(Rarity.EPIC), 112));
     public static final Item MUSIC_DISC_END = register("music_disc_end", new LightstonesMusicDiscItem(15, LightstonesSounds.MUSIC_DISC_END, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1).rarity(Rarity.RARE), 321));
+    public static final Item MUSIC_DISC_CREEPS = register("music_disc_creeps", new LightstonesMusicDiscItem(15, LightstonesSounds.MUSIC_DISC_CREEPS, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1).rarity(Rarity.EPIC), 239));
     
     public static final Item SKRALL_BANNER_PATTERN = register("skrall_banner_pattern", new LightstonesBannerPatternItem(LightstonesBannerPatterns.SKRALL_KEY, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1)));
     public static final Item VIRTUES_BANNER_PATTERN = register("virtues_banner_pattern", new LightstonesBannerPatternItem(LightstonesBannerPatterns.VIRTUES_KEY, new Item.Settings().group(Lightstones.LIGHTSTONES).maxCount(1)));
